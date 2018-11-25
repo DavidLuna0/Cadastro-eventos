@@ -1,0 +1,30 @@
+.detalhesEvento {
+	box-shadow:0px 0px 5px grey;
+	margin-top:20px;
+	padding:15px;
+
+}
+.forms {
+	box-shadow:0px 0px 5px grey;
+	margin-top:20px;
+	padding:15px;
+	margin-top:10px;
+	margin-bottom:30px;
+}
+.valida {
+	background-color:grey;
+	border: 0.5px solid black;
+	border-radius: 1px;
+}
+.convidado {
+	width:50%;
+}
+.formsF {
+	box-shadow:0px 0px 5px grey;
+	margin-top:20px;
+	padding:15px;
+	margin-top:10px;
+	margin-bottom:30px;
+	width:1000px;
+	margin-top:50px;
+}
